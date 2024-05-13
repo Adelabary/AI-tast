@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AI TEST", "AI TEST\AI TEST.pyproj", "{71370C12-AE42-423E-A3FA-47DD5BE030B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71370C12-AE42-423E-A3FA-47DD5BE030B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71370C12-AE42-423E-A3FA-47DD5BE030B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC8ED90-2624-4EA5-A6F1-D5A4C03D4E95}
+	EndGlobalSection
+EndGlobal
